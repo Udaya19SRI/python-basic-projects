@@ -1,14 +1,14 @@
-# 📝 To-Do List App with Streamlit
+** 📝 To-Do List App with Streamlit **
 
 This repository contains a simple To-Do List application built using Python and Streamlit. The app allows users to manage their tasks efficiently by adding, completing, and clearing tasks. Task data is stored in a CSV file to ensure persistence across sessions.
 
-# 🚀 What is Streamlit?
+** 🚀 What is Streamlit? **
 
 Streamlit is an open-source Python library that makes it easy to create and share interactive web applications for data science and machine learning projects.
 	•	Streamlit allows you to build a web interface using simple Python code — no need to learn HTML, CSS, or JavaScript!
 	•	It handles the frontend and backend automatically, providing real-time state updates and user interactions.
 
-# 🏗️ How I Used Streamlit
+** 🏗️ How I Used Streamlit **
 
 ✅ 1. Task Display
 	•	Used st.write() to display tasks.
@@ -26,7 +26,7 @@ Streamlit is an open-source Python library that makes it easy to create and shar
 	•	Used Pandas to save and load tasks from a CSV file, ensuring that tasks are saved even after the app is closed.
 
 
-# 💻 How to Run
+** 💻 How to Run **
 	1.	Clone the repository:
   bash:   git clone <repository_url>
   2.  Navigate to the project directory:
@@ -38,11 +38,11 @@ Streamlit is an open-source Python library that makes it easy to create and shar
 	5.	Open your browser and go to:
   👉 http://localhost:8501
 
-# 🏆 Features
+** 🏆 Features **
 
 ✅ Add new tasks
 ✅ Mark tasks as completed
 ✅ Save tasks to CSV
 ✅ Real-time updates using Streamlit
 
-# 📸 Screenshot
+** 📸 Screenshot **
